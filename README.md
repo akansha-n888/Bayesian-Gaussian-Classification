@@ -16,9 +16,10 @@ The purpose of this project is to explore the Bayesian Decision Theory (a fundam
 * MATLAB- version R2020a
 
 ## Classified Data
-![Schematic](Images/snake.PNG)
-> Snake Robot Fast Prototype (Open Top View)
+![Schematic](Images/db.PNG)
 > Univariate Gaussian Decision Boundary Plot
+
+![Schematic](Images/table.PNG)
 > Multivariate Gaussian Classification Table
 
 ## Status
