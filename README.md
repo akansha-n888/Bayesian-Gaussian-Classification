@@ -26,4 +26,4 @@ The purpose of this project is to explore the Bayesian Decision Theory (a fundam
 Project is: _finished_
 
 ## Contact
-> Created by [@akansha-n888](https://www.linkedin.com/in/akansha-nagar/) and [@tsnagata]
+> Created by [@akansha-n888](https://www.linkedin.com/in/akansha-nagar/) and @tsnagata
